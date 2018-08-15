@@ -1,4 +1,4 @@
-package com.lawton.ron.srfpetclinic.model;
+package com.lawton.ron.sfgpetclinic.model;
 
 import java.time.LocalDate;
 

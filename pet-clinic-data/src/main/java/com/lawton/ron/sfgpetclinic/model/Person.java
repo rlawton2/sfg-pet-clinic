@@ -1,4 +1,4 @@
-package com.lawton.ron.srfpetclinic.model;
+package com.lawton.ron.sfgpetclinic.model;
 
 public class Person {
 

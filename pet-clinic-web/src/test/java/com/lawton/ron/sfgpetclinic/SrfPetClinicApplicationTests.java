@@ -1,4 +1,4 @@
-package com.lawton.ron.srfpetclinic;
+package com.lawton.ron.sfgpetclinic;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
